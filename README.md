@@ -1,1 +1,5 @@
-# EnterpriseConnect4
+# Connect4
+
+### Authors:
+### Conor J. Fairclough
+### Joao Goncalves
